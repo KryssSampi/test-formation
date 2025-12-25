@@ -1,1 +1,2 @@
-## Formation Linkedin \n ### Apprentissage de Git sur toutes ses coutures avec : Julian Layen
+## Formation Linkedin
+### Apprentissage de Git sur toutes ses coutures avec : Julian Layen
